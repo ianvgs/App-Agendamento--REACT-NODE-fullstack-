@@ -1,0 +1,11 @@
+Necessário o Node.js instalado na maquina.
+
+No prompt de comando entrar na basta 'front' e comandar:
+
+npm install (vai instalar os pacotes necessários)
+
+npm start (vai iniciar a aplicação na porta 3000.)
+
+
+Se divirta :).
+

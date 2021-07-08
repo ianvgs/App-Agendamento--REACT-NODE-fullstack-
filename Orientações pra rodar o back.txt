@@ -1,0 +1,16 @@
+Necessario ter instalado na maquina Node.js e database mysql na porta localhost:3306(user:'root', password'').
+
+
+
+No prompt de comando entrar na basta 'back' e comandar:
+npm install (vai instalar os pacotes necessários)
+
+npm install express mysql (só pra confirmar se ta certinho)
+
+npm start (vai rodar o script de inicialiação e criação de tabela, vai estar ouvindo na porta 3301:atendimentos.)
+
+
+Agora é só mandar requisição pelo front.
+
+:)
+
