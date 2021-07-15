@@ -1,6 +1,10 @@
 const customExpress = require('./config/customExpress.js')
 const conexao=require('./infraestrutura/conexao') //conexao com mysql
+const dotenv = require('dotenv')
 const Tabelas = require('./infraestrutura/tabelas')
+
+
+dotenv.config({path:'../.env'})
 
 conexao.connect(erro => {
     if(erro){
